@@ -1,10 +1,10 @@
 # Multimodal LLMs- CLIP & BLIP-2
 
 https://colab.research.google.com/drive/1Q1MANnztku9eq8OQLYanxw5VL2QLrjME?usp=sharing
+
 Exploring cross-modal alignment and visual 
 question answering with CLIP and BLIP-2.
 
-## What's here
 
 ### CLIP (OpenAI)
 - Text and image embeddings
